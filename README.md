@@ -1,24 +1,14 @@
 # Takudzwa Choto
 
 ## 👨‍💻 About Me
+Hello! I'm **Takudzwa Choto**, a Graduate Student in the Department of Computer Science and Technology at **Southwest University of Science and Technology**. I specialize in **AI**, particularly **Deep Learning** and **Machine Learning**. Over the years, I have worked on a diverse set of projects involving **disease detection**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 0 0 70%;">
-    Hello! I'm **Takudzwa Choto**, a Graduate Student in the Department of Computer Science and Technology at **Southwest University of Science and Technology**. I specialize in **AI**, particularly **Deep Learning** and **Machine Learning**. Over the years, I have worked on a diverse set of projects involving **disease detection**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
+I am proficient in **full-stack development**, leveraging frameworks like **Streamlit**, **Django**, **React**, **Flask**, and **Tkinter**, and also highly skilled in **Firebase** and **SQLAlchemy** for database management.
 
-    I am proficient in **full-stack development**, leveraging frameworks like **Streamlit**, **Django**, **React**, **Flask**, and **Tkinter**, and also highly skilled in **Firebase** and **SQLAlchemy** for database management.
-
-    ### 🌱 Currently Learning:
-    - **Advanced Blockchain** development using **Ethereum**.
-    - **Cutting-edge NLP** models (transformers, BERT, GPT).
-    - **Machine Learning** model optimization techniques.
-  </div>
-
-  <div style="flex: 0 0 28%; text-align: center;">
-    <h3>📈 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=TakudzwaChoto&show_icons=true&theme=radical" alt="Takudzwa's GitHub Stats" />
-  </div>
-</div>
+### 🌱 Currently Learning:
+- **Advanced Blockchain** development using **Ethereum**.
+- **Cutting-edge NLP** models (transformers, BERT, GPT).
+- **Machine Learning** model optimization techniques.
 
 ---
 
@@ -72,6 +62,11 @@
 
 ---
 
+## 📈 **GitHub Stats**  
+![Takudzwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakudzwaChoto&show_icons=true&theme=radical)
+
+---
+
 ## 🌍 **Contact**
 - **Email**: [ctakudzwa95@gmail.com](mailto:ctakudzwa95@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/takudzwa-choto)
@@ -109,4 +104,3 @@
 
 ## 🚀 **Let's Collaborate!**
 I'm always open to new collaborations and exciting projects. If you're interested in working on something innovative, feel free to reach out!
-
