@@ -32,6 +32,7 @@ I am proficient in **full-stack development**, leveraging frameworks like **Stre
 - **Firebase**: Real-time database and cloud storage.
 - **SQLAlchemy**: ORM for efficient database interaction in Python.
 ---
+
 ## 🚀 My Projects
 
 ### 🌐 **[DApp Twitter](https://github.com/TakudzwaChoto/DApp-twitter)**
@@ -47,6 +48,7 @@ I am proficient in **full-stack development**, leveraging frameworks like **Stre
 - **Description**: Build an **NLP-powered chatbot** that can engage in human-like conversations.
 - **Tech Stack**: Python, NLTK, SpaCy, TensorFlow ,CUDA , LLM
 ---
+
 ## 🛠️ Technologies I Use
 | **Languages**           | **Frameworks**            | **Tools**               | **Blockchain**        |
 |-------------------------|---------------------------|-------------------------|-----------------------|
@@ -57,7 +59,6 @@ I am proficient in **full-stack development**, leveraging frameworks like **Stre
 |                         |                           | ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff) | ![MetaMask](https://img.shields.io/badge/MetaMask-F6851D?logo=metamask&logoColor=fff) |
 |                         |                           | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff) | ![Alchemy](https://img.shields.io/badge/Alchemy-8A3F95?logo=alchemy&logoColor=fff) |
 |                         |                           |                         | ![LLM](https://img.shields.io/badge/LLM-000000?logo=openai&logoColor=fff) |
-
 
 ---
 
@@ -103,4 +104,5 @@ I am proficient in **full-stack development**, leveraging frameworks like **Stre
 
 ## 🚀 **Let's Collaborate!**
 I'm always open to new collaborations and exciting projects. If you're interested in working on something innovative, feel free to reach out!
+
 
