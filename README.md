@@ -27,13 +27,11 @@ I am proficient in **full-stack development**, leveraging frameworks like **Stre
 ### 🏗️ **Blockchain Development**:
 - **Solidity**: Developing decentralized applications (DApps) on the **Ethereum** network.
 - **Web3.js**: Integrating blockchain applications with frontend via Web3.js.
-
+- **Hyperledger Fabric**:  a modular, permissioned blockchain framework for building secure, scalable, and enterprise-grade decentralized applications.
 ### 🗃️ **Databases**:
 - **Firebase**: Real-time database and cloud storage.
 - **SQLAlchemy**: ORM for efficient database interaction in Python.
-
 ---
-
 ## 🚀 My Projects
 
 ### 🌐 **[DApp Twitter](https://github.com/TakudzwaChoto/DApp-twitter)**
@@ -45,11 +43,9 @@ I am proficient in **full-stack development**, leveraging frameworks like **Stre
 - **Description**: AI model for **disease detection** from **medical images** and structured data.
 - **Tech Stack**: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
 
-
 ### 🤖 **NLP-based Chatbot**
 - **Description**: Build an **NLP-powered chatbot** that can engage in human-like conversations.
 - **Tech Stack**: Python, NLTK, SpaCy, TensorFlow ,CUDA , LLM
-
 ---
 
 ## 🛠️ Technologies I Use
