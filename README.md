@@ -41,13 +41,10 @@ I am proficient in **full-stack development**, leveraging frameworks like **Stre
 - **Tech Stack**: Solidity, React, Web3.js
 - **Key Features**: Tweet posting, liking/unliking tweets, user profile creation.
 
-![DApp Twitter Project](https://github.com/user-attachments/assets/fd2cf94a-39d1-473e-b9f0-22d2db1e3bea)
-
 ### 🏥 **Disease Detection AI**
 - **Description**: AI model for **disease detection** from **medical images** and structured data.
 - **Tech Stack**: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
 
-![Disease Detection](https://github.com/user-attachments/assets/0ffc6777-a76a-4d04-b652-24c7551141bd)
 
 ### 🤖 **NLP-based Chatbot**
 - **Description**: Build an **NLP-powered chatbot** that can engage in human-like conversations.
