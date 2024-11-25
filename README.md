@@ -1,43 +1,109 @@
-## Hi there 👋
+# Takudzwa Choto - Professional GitHub Profile
 
-<!--
-**TakudzwaChoto/TakudzwaChoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Hello! I'm **Takudzwa Choto**, a Graduate Student in the Department of Computer Science and Technology at **Southwest University of Science and Technology**. I specialize in **AI**, particularly **Deep Learning** and **Machine Learning**. Over the years, I have worked on a diverse set of projects involving **disease detection**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
 
-Here are some ideas to get you started:
+I am proficient in **full-stack development**, leveraging frameworks like **Streamlit**, **Django**, **React**, **Flask**, and **Tkinter**, and also highly skilled in **Firebase** and **SQLAlchemy** for database management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning:
+- **Advanced Blockchain** development using **Ethereum**.
+- **Cutting-edge NLP** models (transformers, BERT, GPT).
+- **Machine Learning** model optimization techniques.
 
-# 👋 Hi, I'm Takudzwa Choto!
+---
 
-Welcome to my GitHub profile! I'm a passionate software developer with experience in building decentralized applications (DApps) and blockchain technology. I enjoy creating efficient and scalable solutions to complex problems using modern web technologies.
+## 💼 My Expertise
 
-## 🔧 Technologies & Tools
-- **Languages:** JavaScript, Python, Solidity, HTML/CSS
-- **Frameworks:** React.js, Node.js, Express.js, Web3.js
-- **Blockchain:** Ethereum, Smart Contracts, Solidity
-- **Databases:** SQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, Alchemy, MetaMask, Truffle, Hardhat
+### 🧠 **AI and Machine Learning**:
+- **Disease Detection**: Creating AI models to detect diseases from images or structured data.
+- **Natural Language Processing (NLP)**: Experience in building models for text classification, translation, and generation.
+- **Large Language Models (LLMs)**: Working on the development and fine-tuning of LLMs for conversational AI and text-based applications.
+
+### 🌍 **Web Development**:
+- **Frontend**: Skilled in **React** for building dynamic user interfaces.
+- **Backend**: Proficient in **Flask**, **Django**, and **Solidity** for smart contract development.
+- **GUI**: Extensive experience using **Streamlit**, **Tkinter**, and **React** for building interactive user interfaces.
+
+### 🏗️ **Blockchain Development**:
+- **Solidity**: Developing decentralized applications (DApps) on the **Ethereum** network.
+- **Web3.js**: Integrating blockchain applications with frontend via Web3.js.
+
+### 🗃️ **Databases**:
+- **Firebase**: Real-time database and cloud storage.
+- **SQLAlchemy**: ORM for efficient database interaction in Python.
+
+---
 
 ## 🚀 My Projects
-- **[DApp Twitter](https://github.com/TakudzwaChoto/DApp-twitter)**: A decentralized Twitter-like application built with React.js and Ethereum smart contracts.
-- **[Water Quality Management System](https://github.com/TakudzwaChoto/Water-Quality-System)**: A system for real-time monitoring and management of water quality using IoT and blockchain.
 
-## 🌱 Current Focus
-- Enhancing my DApp development skills with Web3.js and Solidity.
-- Exploring new trends in blockchain and decentralized finance (DeFi).
-- Continuously improving my software engineering practices and learning new technologies.
+### 🌐 **[DApp Twitter](https://github.com/TakudzwaChoto/DApp-twitter)**
+- **Description**: A decentralized **Twitter**-like application built using smart contracts on **Ethereum**.
+- **Tech Stack**: Solidity, React, Web3.js
+- **Key Features**: Tweet posting, liking/unliking tweets, user profile creation.
 
-## 🌎 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/takudzwa-choto/)
-- [Twitter](https://twitter.com/TakudzwaChoto)
-- Email: ctakudzwa95@gmail.com
+![DApp Twitter Project](https://github.com/user-attachments/assets/fd2cf94a-39d1-473e-b9f0-22d2db1e3bea)
 
-Feel free to explore my repositories and reach out if you want to collaborate or chat about tech!
+### 🏥 **Disease Detection AI**
+- **Description**: AI model for **disease detection** from **medical images** and structured data.
+- **Tech Stack**: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
+
+![Disease Detection](https://github.com/user-attachments/assets/0ffc6777-a76a-4d04-b652-24c7551141bd)
+
+### 🤖 **NLP-based Chatbot**
+- **Description**: Build an **NLP-powered chatbot** that can engage in human-like conversations.
+- **Tech Stack**: Python, NLTK, SpaCy, TensorFlow ,CUDA , LLM
+
+---
+
+## 🛠️ Technologies I Use
+| **Languages**           | **Frameworks**            | **Tools**               | **Blockchain**        |
+|-------------------------|---------------------------|-------------------------|-----------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=fff) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=fff) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=fff) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff) | ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-5d6d7e?logo=python&logoColor=fff) | ![Web3.js](https://img.shields.io/badge/Web3.js-000000?logo=web3.js&logoColor=fff) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff) | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff) |                         |                       |
+
+---
+
+## 📈 **GitHub Stats**  
+![Takudzwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakudzwaChoto&show_icons=true&theme=radical)
+
+---
+
+## 🌍 **Contact**
+- **Email**: [ctakudzwa95@gmail.com](mailto:ctakudzwa95@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/takudzwa-choto)
+- **Twitter**: [@takudzwa_choto](https://twitter.com/takudzwa_choto)
+
+---
+
+## 📚 **What I’m Working On**
+- Enhancing my **AI-driven applications** for **medical diagnostics**.
+- Building scalable **decentralized applications** with **Solidity**.
+- Exploring **AI ethics** and the societal impact of **large language models**.
+
+---
+
+## ⏳ **Timeline of My Work**
+
+- **Nov 2024**: Continued development on **DApp Twitter** with enhanced interaction features.
+- **Oct 2024**: Integrated **AI models** for disease detection and real-time data processing.
+- **Sep 2024**: Launched a prototype for an **NLP-based chatbot** and explored **blockchain-based solutions** for decentralized applications.
+
+---
+
+## 🌟 **Key Contributions**
+- Contributed to open-source **machine learning** and **web3 projects**.
+- Published research on **AI** and **blockchain applications** in decentralized environments.
+
+---
+
+## 🔧 **Future Plans**
+- Explore more **advanced machine learning** algorithms for automated diagnosis.
+- Continue experimenting with **decentralized finance (DeFi)** applications on **Ethereum**.
+- Investigate the integration of **AI** and **blockchain** for more secure, transparent platforms.
+
+---
+
+## 🚀 **Let's Collaborate!**
+I'm always open to new collaborations and exciting projects. If you're interested in working on something innovative, feel free to reach out!
+
