@@ -9,7 +9,6 @@ Hello! I'm **Takudzwa Choto**, a Graduate Student in the Department of Computer 
 - **Machine Learning** model optimization techniques.
 
 ---
-
 ## 💼 My Expertise and 🛠️ Technologies I Use
 | **Languages**           | **Frameworks**            | **Tools**               | **Blockchain**        |
 |-------------------------|---------------------------|-------------------------|-----------------------|
@@ -19,7 +18,9 @@ Hello! I'm **Takudzwa Choto**, a Graduate Student in the Department of Computer 
 |                         | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) | ![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=fff) |
 |                         |                           | ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff) | ![MetaMask](https://img.shields.io/badge/MetaMask-F6851D?logo=metamask&logoColor=fff) |
 |                         |                           | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff) | ![Alchemy](https://img.shields.io/badge/Alchemy-8A3F95?logo=alchemy&logoColor=fff) |
-|                         |                           |                         | ![LLM](https://img.shields.io/badge/LLM-000000?logo=openai&logoColor=fff) |
+| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff) |                           | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) | ![Slither](https://img.shields.io/badge/Slither-78B9F2?logo=slither&logoColor=fff) |
+|                         |                           | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff) | ![LLM](https://img.shields.io/badge/LLM-000000?logo=openai&logoColor=fff) |
+|                         |                           | ![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=fff) | ![DOI](https://img.shields.io/badge/DOI-FF6F00?logo=doi&logoColor=fff) |
 
 ---
 
