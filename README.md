@@ -1,5 +1,5 @@
 # Takudzwa Choto
-
+Linked In: www.linkedin.com/in/takudzwa-choto-948087366
 ## 👨‍💻 About Me
 Hello! I'm **Takudzwa Choto**, a Graduate Student in the Department of Computer Science and Technology at **Southwest University of Science and Technology**. I specialize in **AI**, particularly **Deep Learning** and **Machine Learning**. Over the years, I have worked on a diverse set of projects involving **disease detection**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
 
