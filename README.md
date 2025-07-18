@@ -7,6 +7,7 @@ Hello! I'm **Takudzwa Choto**, a Graduate Student in the Department of Computer 
 - **Cutting-edge NLP** models (transformers, BERT, GPT).
 - **Machine Learning** model optimization techniques.
 Linked In: www.linkedin.com/in/takudzwa-choto-948087366
+Github   : https://github.com/Gershom-Taku
 ---
 ## 💼 My Expertise and 🛠️ Technologies I Use
 | **Languages**           | **Frameworks**            | **Tools**               | **Blockchain**        | **AI**               | **Systems**           | **Social**           |
