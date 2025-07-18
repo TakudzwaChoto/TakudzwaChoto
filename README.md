@@ -1,6 +1,6 @@
 # Takudzwa Choto
 ## 👨‍💻 About Me
-Hello! I'm **Takudzwa Choto**, a Graduate Student in the Department of Computer Science and Technology at **Southwest University of Science and Technology**. I specialize in **AI**, particularly **Deep Learning** and **Machine Learning**. Over the years, I have worked on a diverse set of projects involving **disease detection**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
+I'm Takudzwa Choto, a graduate student in Computer Science at Southwest University of Science and Technology. I focus on the intersection of Blockchain, AI, and Cybersecurity, with expertise in Deep Learning, NLP, LLMs, and secure smart contract development for decentralized systems.
 
 ### 🌱 Currently Learning:
 - **Advanced Blockchain** development using **Ethereum**  and  **Hyperledger Fabric**.
