@@ -30,6 +30,8 @@ I'm Takudzwa Choto, based In Sichuan, China. I focus on the intersection of Bloc
 
 ## 🌍 **Contact**
 - **Email**: [ctakudzwa95@gmail.com](mailto:ctakudzwa95@gmail.com)
+- **Email**: [ctakudzwa95@gmail.com](mailto:chototakudzwa33@gmail.com)
+- **Email**: [ctakudzwa95@gmail.com](mailto:chototakudzwa@163.com)
 ---
 
 ## 📚 **What I’m Working On**
