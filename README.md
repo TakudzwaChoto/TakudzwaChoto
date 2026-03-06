@@ -1,6 +1,6 @@
 # Takudzwa Choto
 ## 👨‍💻 About Me
-I'm Takudzwa Choto, based In Sichuan. I focus on the intersection of Blockchain, AI, and Cybersecurity, with expertise in Deep Learning, NLP, LLMs, and secure smart contract development for decentralized systems.
+I'm Takudzwa Choto, based In Sichuan, China. I focus on the intersection of Blockchain, AI, and Cybersecurity, with expertise in Deep Learning, NLP, LLMs, and secure smart contract development for decentralized systems.
 
 ### 🌱 Currently Learning:
 - **Advanced Blockchain** development using **Ethereum**  and  **Hyperledger Fabric**.
