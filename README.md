@@ -22,12 +22,6 @@ I'm Takudzwa Choto, based In Sichuan, China. I focus on the intersection of Bloc
 
 
 ---
-
-## 📈 **GitHub Stats**  
-![Takudzwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakudzwaChoto&show_icons=true&theme=radical)
-
----
-
 ## 🌍 **Contact**
 - **Email**: [ctakudzwa95@gmail.com](mailto:ctakudzwa95@gmail.com)
 - **Email**: [chototakudzwa33@gmail.com](mailto:chototakudzwa33@gmail.com)
