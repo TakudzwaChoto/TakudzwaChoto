@@ -6,6 +6,7 @@ I'm Takudzwa Choto, based In Sichuan, China. I focus on the intersection of Bloc
 - **Advanced Blockchain** development using **Ethereum**  and  **Hyperledger Fabric**.
 - **Cutting-edge NLP** models (transformers, BERT, GPT).
 - **Machine Learning** model optimization techniques.
+- Cryptography and LLM security
 - Github   : https://github.com/Gershom-Taku
 ---
 ## 💼 My Expertise and 🛠️ Technologies I Use
